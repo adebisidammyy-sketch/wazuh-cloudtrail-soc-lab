@@ -1,5 +1,8 @@
-# 🔐 SOC Threat Visibility Lab
-### Wazuh + Elastic Stack | Docker | AWS CloudTrail | Suricata IDS
+ Wazuh CloudTrail SOC Lab
+
+### Multi-Cloud SIEM & Threat Detection | Wazuh + Suricata IDS | AWS CloudTrail | Docker
+
+![Wazuh](badge) ![Docker](badge) ![AWS](badge) ![Status](badge)
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-4.14.5-blue)
 ![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
@@ -9,8 +12,7 @@
 ---
 
 ## 📌 Project Overview
-
-A fully operational Security Operations Center (SOC) home lab built from scratch, simulating real-world threat detection, cloud monitoring, and incident response workflows.
+A fully operational Security Operations Center (SOC) home lab built from scratch, simulating real-world threat detection, cloud monitoring, and incident response workflows across on-premise and AWS cloud infrastructure.
 
 Built as part of **Cybersecurity Project 1 — 2026** for **FireOps Systems**, a fictional fintech startup operating across multiple African countries with on-premise and cloud infrastructure.
 
