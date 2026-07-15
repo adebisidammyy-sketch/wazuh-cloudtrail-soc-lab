@@ -1,6 +1,6 @@
- Wazuh CloudTrail SOC Lab
+ ### Wazuh CloudTrail SOC Lab
 
-### Multi-Cloud SIEM & Threat Detection | Wazuh + Suricata IDS | AWS CloudTrail | Docker
+ Multi-Cloud SIEM & Threat Detection | Wazuh + Suricata IDS | AWS CloudTrail | Docker
 
 ![Wazuh](badge) ![Docker](badge) ![AWS](badge) ![Status](badge)
 
