@@ -14,7 +14,7 @@
 ## 📌 Project Overview
 A fully operational Security Operations Center (SOC) home lab built from scratch, simulating real-world threat detection, cloud monitoring, and incident response workflows across on-premise and AWS cloud infrastructure.
 
-Built as part of **Cybersecurity Project 1 — 2026** for **FireOps Systems**, a fictional fintech startup operating across multiple African countries with on-premise and cloud infrastructure.
+Built as part of **Cybersecurity Project 1 - 2026** for **FireOps Systems**, a fictional fintech startup operating across multiple African countries with on-premise and cloud infrastructure.
 
 ---
 
